@@ -12,7 +12,7 @@ Mac OS
 
 
 ---Compiler---
-X code
+X codesfsdgs
 
 
 ---Functions---
@@ -93,7 +93,7 @@ RC freeSchema
 
 ---Attribute Functions
 
-RC getAttr£º
+RC getAttrï¿½ï¿½
    Allocate the space to the value data structre where the attribute values are to be fetched. 
    Get the offset value of different attributes as per the attribute numbers.
    Attribute data is assigned to the value pointer as per the different data types.
